@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0217-contains-duplicate) |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0217-contains-duplicate) |
