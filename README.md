@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0217-contains-duplicate) |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
