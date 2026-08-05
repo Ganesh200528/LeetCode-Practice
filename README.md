@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0217-contains-duplicate) |
@@ -56,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 ## Divide and Conquer
 |  |
@@ -85,6 +87,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Sliding Window
