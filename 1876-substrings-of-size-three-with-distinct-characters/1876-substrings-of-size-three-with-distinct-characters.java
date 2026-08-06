@@ -1,37 +1,30 @@
 import java.util.*;
 class Solution {
-
-    public boolean gann(String h,int k)
-    {
-        HashSet<Character> gg = new HashSet<>();
-        int n = h.length();
-        for(int i = 0 ; i < n ; i++)
-        {
-            gg.add(h.charAt(i));
-        }
-        if(gg.size() == n)
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
-    }
-
-    public int countGoodSubstrings(String s)
-    {
-        int k = 3;
-        boolean  temp = false;
+    public int countGoodSubstrings(String s) {
+        HashMap<Character,Integer> hh = new HashMap<>();
         int ans = 0;
-        int u = s.length();
-        for(int j = 0 ; j < u-k+1 ;j++)
+        int l = 0;
+        int n = s.length();
+        int sl = 3;
+        for(int r = 0; r<n;r++)
         {
-            temp = gann(s.substring(j,j+k),k);
-            if(temp)
+            char t = s.charAt(r);
+            hh.put(t,hh.getOrDefault(t,0)+1);
+            if(r -l == sl)
             {
-                    ans = ans+1;
+                char tch = s.charAt(l);
+                hh.put(tch,hh.get(tch)-1);
+                if(hh.get(tch) == 0)
+                {
+                    hh.remove(tch);
+                }
+                l++;
             }
+                if(hh.size() == 3)
+                {
+                    ans++;
+                }
+            
         }
         return ans;
     }
