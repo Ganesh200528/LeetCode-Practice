@@ -21,6 +21,7 @@
 | [0645-set-mismatch](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0766-toeplitz-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0766-toeplitz-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0766-toeplitz-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
