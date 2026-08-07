@@ -8,9 +8,9 @@ class Solution {
         for(int i = 0 ; i < n-1;i =i+2)
         {
             int j = i+1;
-            //System.out.println(nums[i]+" "+nums[j]);  
-            gv = Math.min(nums[i],nums[j]);
-            ans += gv;
+  
+            ans += Math.min(nums[i],nums[j]);
+            
         }
         return ans;
     }
