@@ -3,7 +3,7 @@ class Solution {
     public int lengthOfLongestSubstring(String s) {
         int n = s.length();
         int ans = 0;
-        int temp = 0;
+        
         int l = 0;
         HashSet<Character> gg = new HashSet<>();
         for(int r = 0 ; r < n;r++)
