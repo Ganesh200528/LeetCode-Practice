@@ -59,6 +59,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0904-fruit-into-baskets) |
@@ -88,6 +89,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Divide and Conquer
@@ -134,6 +136,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
