@@ -22,6 +22,7 @@
 | [0645-set-mismatch](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0766-toeplitz-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -41,6 +43,7 @@
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
