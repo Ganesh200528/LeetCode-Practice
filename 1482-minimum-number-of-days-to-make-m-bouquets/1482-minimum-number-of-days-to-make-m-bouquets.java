@@ -7,17 +7,18 @@ class Solution {
             if(x >= gg[j])
             {
                 look++;
+                if(look == k)
+            {
+                m--;
+                look = 0;
+            }
             }
             else
             {
                 look = 0;
             }
 
-            if(look == k)
-            {
-                m--;
-                look = 0;
-            }
+            
 
             if(m == 0)
             {
