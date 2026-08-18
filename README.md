@@ -45,6 +45,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Simulation
@@ -160,6 +161,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
