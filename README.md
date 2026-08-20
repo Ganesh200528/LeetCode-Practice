@@ -47,6 +47,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -61,6 +62,7 @@
 | [0495-teemo-attacking](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
