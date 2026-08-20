@@ -47,6 +47,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
