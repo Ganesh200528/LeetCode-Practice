@@ -17,6 +17,7 @@ class Solution {
                 if(allowed.indexOf(chh) == -1)
                 {
                     hehe = false;
+                    break;
                 }
             }
             if(hehe)
