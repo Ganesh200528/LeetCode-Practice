@@ -62,6 +62,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
@@ -110,6 +111,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3668-restore-finishing-order](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
