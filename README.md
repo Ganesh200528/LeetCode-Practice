@@ -105,6 +105,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3945-digit-frequency-score](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -202,6 +203,7 @@
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3945-digit-frequency-score](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
 | ------- |
