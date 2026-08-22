@@ -66,6 +66,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3701-compute-alternating-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
@@ -77,6 +78,7 @@
 | [1920-build-array-from-permutation](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3701-compute-alternating-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
