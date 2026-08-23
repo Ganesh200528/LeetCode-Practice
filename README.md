@@ -65,6 +65,7 @@
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2574-left-and-right-sum-differences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -125,6 +126,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3668-restore-finishing-order) |
@@ -139,6 +141,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
