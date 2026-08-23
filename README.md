@@ -50,6 +50,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1720-decode-xored-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -140,6 +141,7 @@
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
