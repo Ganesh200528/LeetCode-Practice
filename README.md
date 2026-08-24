@@ -97,6 +97,7 @@
 | [1920-build-array-from-permutation](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3174-clear-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3925-concatenate-array-with-reverse) |
@@ -193,6 +194,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
+| [3174-clear-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3174-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3174-clear-digits) |
 ## Counting Sort
 |  |
 | ------- |
