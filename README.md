@@ -288,6 +288,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3174-clear-digits) |
@@ -354,4 +355,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
