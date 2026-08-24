@@ -183,6 +183,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -286,6 +287,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3174-clear-digits) |
@@ -350,5 +352,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
