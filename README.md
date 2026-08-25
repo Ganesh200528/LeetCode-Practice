@@ -76,6 +76,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2974-minimum-number-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2974-minimum-number-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3285-find-indices-of-stable-mountains) |
@@ -97,6 +98,7 @@
 | [1920-build-array-from-permutation](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2974-minimum-number-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3701-compute-alternating-sum) |
@@ -176,6 +178,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 ## String
@@ -328,6 +331,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0506-relative-ranks) |
+| [2974-minimum-number-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Quicksort
 |  |
