@@ -144,6 +144,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -202,6 +203,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3174-clear-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3174-clear-digits) |
@@ -216,6 +218,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -231,6 +234,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 ## Two Pointers
 |  |
 | ------- |
@@ -339,6 +343,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0506-relative-ranks) |
+| [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
