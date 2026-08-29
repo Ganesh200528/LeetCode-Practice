@@ -22,6 +22,7 @@
 | [0414-third-maximum-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0561-array-partition) |
