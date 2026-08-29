@@ -38,6 +38,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -361,6 +362,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0506-relative-ranks) |
+| [1046-last-stone-weight](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1046-last-stone-weight) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2974-minimum-number-game) |
