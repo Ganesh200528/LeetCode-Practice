@@ -15,6 +15,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -142,6 +143,7 @@
 | [0205-isomorphic-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -183,6 +185,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0414-third-maximum-number) |
@@ -233,6 +236,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -244,6 +248,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
