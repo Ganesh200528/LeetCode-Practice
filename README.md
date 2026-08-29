@@ -31,6 +31,7 @@
 | [0682-baseball-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0766-toeplitz-matrix) |
+| [0804-unique-morse-code-words](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0875-koko-eating-bananas) |
@@ -144,6 +145,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0645-set-mismatch) |
+| [0804-unique-morse-code-words](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -206,6 +208,7 @@
 | [0205-isomorphic-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0804-unique-morse-code-words](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
