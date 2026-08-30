@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0217-contains-duplicate) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 ## Matrix
 |  |
