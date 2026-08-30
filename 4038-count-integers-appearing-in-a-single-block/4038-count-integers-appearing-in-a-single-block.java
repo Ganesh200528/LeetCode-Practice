@@ -5,7 +5,6 @@ class Solution {
 
         for (int i = 0; i < nums.length; i++) {
 
-            // First element or new block starts
             if (i == 0 || nums[i] != nums[i - 1]) {
                 blocks[nums[i]]++;
             }
