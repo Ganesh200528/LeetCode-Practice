@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0645-set-mismatch) |
@@ -159,6 +160,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0904-fruit-into-baskets) |
@@ -372,6 +374,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
