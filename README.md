@@ -170,6 +170,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
@@ -240,6 +241,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
