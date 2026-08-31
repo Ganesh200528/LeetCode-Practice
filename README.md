@@ -177,6 +177,7 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -246,6 +247,7 @@
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3174-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
