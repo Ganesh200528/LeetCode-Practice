@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0169-majority-element) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 ## Matrix
