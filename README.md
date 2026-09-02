@@ -108,6 +108,7 @@
 | [3701-compute-alternating-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3925-concatenate-array-with-reverse) |
@@ -127,6 +128,7 @@
 | [3174-clear-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
@@ -259,6 +261,7 @@
 | [3146-permutation-difference-between-two-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3174-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3838-weighted-word-mapping](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |
