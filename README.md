@@ -162,6 +162,7 @@
 | [0229-majority-element-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -241,6 +242,7 @@
 | [0058-length-of-last-word](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0709-to-lower-case) |
@@ -271,6 +273,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -457,6 +460,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
