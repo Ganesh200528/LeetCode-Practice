@@ -110,6 +110,7 @@
 | [3701-compute-alternating-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 | [3838-weighted-word-mapping](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -239,6 +240,7 @@
 | [2974-minimum-number-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 ## String
 |  |
 | ------- |
@@ -309,6 +311,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2706-buy-two-chocolates](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -454,6 +457,7 @@
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 ## Bracket Sequences
 |  |
 | ------- |
