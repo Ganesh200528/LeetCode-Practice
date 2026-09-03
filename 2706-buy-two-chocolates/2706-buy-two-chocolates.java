@@ -1,16 +1,17 @@
 class Solution {
     public int buyChoco(int[] prices, int money) {
         
-        Arrays.sort(prices);
+        PriorityQueue<Integer> qq = new PriorityQueue<>((a,b) -> (a - b));
+        for(int i = 0; i < prices.length;i++)
+        {
+            qq.add(prices[i]);
+        }
+
         int yy = money;
         int kk = 0;
         for(int i = 0; i < 2;i++)
         {
-           money = money - prices[i];
-           
-          
-          
-          
+           money -= qq.poll();
         }
          if(money < 0)
            {
