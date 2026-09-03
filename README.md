@@ -236,6 +236,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -312,6 +313,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
@@ -362,6 +364,7 @@
 | [1323-maximum-69-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1323-maximum-69-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
