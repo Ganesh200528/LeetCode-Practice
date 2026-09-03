@@ -88,6 +88,7 @@
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2706-buy-two-chocolates](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -233,6 +234,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
+| [2706-buy-two-chocolates](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3467-transform-array-by-parity) |
@@ -306,6 +308,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
+| [2706-buy-two-chocolates](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
 ## Two Pointers
 |  |
 | ------- |
