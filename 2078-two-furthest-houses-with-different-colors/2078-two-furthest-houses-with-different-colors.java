@@ -6,16 +6,6 @@ class Solution {
         int i = 0;
         int xx = 0;
         int yy = 0;
-        // for(int i = 0;i < colors.length;i++)
-        // {
-
-        //     if(colors[i] != colors[jj])
-        //     {
-        //         return Math.abs(jj - i);
-        //     }
-        //     jj--;
-        // }
-
         while(i < jj)
         {
             if(colors[i] != colors[jj])
