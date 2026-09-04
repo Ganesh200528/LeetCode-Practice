@@ -251,6 +251,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0205-isomorphic-strings) |
@@ -324,6 +325,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -496,9 +498,22 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
