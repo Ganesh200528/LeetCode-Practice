@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0066-plus-one) |
@@ -322,6 +323,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
