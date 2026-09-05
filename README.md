@@ -282,6 +282,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -328,6 +329,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
@@ -484,6 +486,7 @@
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 ## Bracket Sequences
 |  |
