@@ -143,6 +143,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0152-maximum-product-subarray) |
@@ -372,6 +373,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
@@ -528,4 +530,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
