@@ -70,6 +70,7 @@
 | [1672-richest-customer-wealth](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1720-decode-xored-array) |
+| [1732-find-the-highest-altitude](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1816-truncate-sentence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -442,6 +443,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2574-left-and-right-sum-differences](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3432-count-partitions-with-even-sum-difference) |
