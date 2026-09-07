@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -186,6 +187,7 @@
 | [0229-majority-element-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -244,6 +246,7 @@
 | [0229-majority-element-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -360,6 +363,7 @@
 | [0202-happy-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0832-flipping-an-image) |
 | [1089-duplicate-zeros](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1089-duplicate-zeros) |
@@ -376,6 +380,7 @@
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0875-koko-eating-bananas) |
