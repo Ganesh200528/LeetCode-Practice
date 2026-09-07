@@ -40,6 +40,7 @@
 | [0704-binary-search](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
+| [0832-flipping-an-image](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0875-koko-eating-bananas) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0495-teemo-attacking](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1929-concatenation-of-array) |
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1572-matrix-diagonal-sum) |
@@ -225,6 +228,7 @@
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0832-flipping-an-image) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -357,6 +361,7 @@
 | [0283-move-zeroes](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0832-flipping-an-image) |
 | [1089-duplicate-zeros](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1089-duplicate-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
