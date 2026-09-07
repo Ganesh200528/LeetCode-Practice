@@ -126,6 +126,7 @@
 | [3895-count-digit-appearances](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/4020-elevator-requests-i) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [3701-compute-alternating-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/4020-elevator-requests-i) |
 ## Dynamic Programming
 |  |
 | ------- |
