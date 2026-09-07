@@ -148,6 +148,7 @@
 | [3701-compute-alternating-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3959-check-good-integer) |
 | [4020-elevator-requests-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/4020-elevator-requests-i) |
 ## Dynamic Programming
 |  |
@@ -412,6 +413,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3895-count-digit-appearances](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3959-check-good-integer) |
 ## Sliding Window
 |  |
 | ------- |
