@@ -136,6 +136,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0832-flipping-an-image) |
@@ -408,6 +409,7 @@
 | [0070-climbing-stairs](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -546,6 +548,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String Matching
 |  |
