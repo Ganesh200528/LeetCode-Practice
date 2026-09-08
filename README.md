@@ -291,6 +291,7 @@
 | [0709-to-lower-case](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0709-to-lower-case) |
 | [0804-unique-morse-code-words](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -323,6 +324,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -343,6 +345,7 @@
 | [0561-array-partition](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0860-lemonade-change) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1323-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
