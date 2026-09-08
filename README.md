@@ -229,6 +229,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0645-set-mismatch) |
@@ -319,6 +320,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
