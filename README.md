@@ -35,6 +35,7 @@
 | [0506-relative-ranks](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -199,6 +200,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0904-fruit-into-baskets) |
