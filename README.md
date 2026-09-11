@@ -91,6 +91,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -273,6 +274,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -409,6 +411,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2563-count-the-number-of-fair-pairs) |
