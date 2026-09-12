@@ -104,6 +104,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2465-number-of-distinct-averages](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2553-separate-the-digits-in-an-array) |
@@ -225,6 +226,7 @@
 | [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2347-best-poker-hand](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2347-best-poker-hand) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
+| [2465-number-of-distinct-averages](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2784-check-if-array-is-good) |
@@ -288,6 +290,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
+| [2465-number-of-distinct-averages](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2706-buy-two-chocolates](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
@@ -402,6 +405,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2465-number-of-distinct-averages](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2465-number-of-distinct-averages) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
