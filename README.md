@@ -236,6 +236,7 @@
 | [3668-restore-finishing-order](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
@@ -332,6 +333,7 @@
 | [3146-permutation-difference-between-two-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3174-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
