@@ -227,6 +227,7 @@
 | [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2347-best-poker-hand](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2347-best-poker-hand) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2465-number-of-distinct-averages](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -336,6 +337,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2942-find-words-containing-character](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -363,6 +365,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2347-best-poker-hand](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2347-best-poker-hand) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
