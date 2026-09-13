@@ -336,6 +336,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2942-find-words-containing-character](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3146-permutation-difference-between-two-strings) |
@@ -388,6 +389,7 @@
 | [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
@@ -409,6 +411,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2465-number-of-distinct-averages](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2465-number-of-distinct-averages) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
