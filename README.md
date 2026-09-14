@@ -452,6 +452,7 @@
 | [0202-happy-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -626,4 +627,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
