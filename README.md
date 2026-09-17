@@ -224,6 +224,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2347-best-poker-hand](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2347-best-poker-hand) |
 | [2418-sort-the-people](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2418-sort-the-people) |
@@ -332,6 +333,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
@@ -364,6 +366,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2182-construct-string-with-repeat-limit) |
 | [2347-best-poker-hand](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2347-best-poker-hand) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2423-remove-letter-to-equalize-frequency) |
