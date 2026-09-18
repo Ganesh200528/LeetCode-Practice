@@ -134,6 +134,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3467-transform-array-by-parity) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -244,6 +245,7 @@
 | [3146-permutation-difference-between-two-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -408,6 +410,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
 |  |
