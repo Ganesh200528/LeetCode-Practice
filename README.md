@@ -217,6 +217,7 @@
 | [0575-distribute-candies](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
+| [0859-buddy-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -332,6 +333,7 @@
 | [0500-keyboard-row](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0709-to-lower-case) |
 | [0804-unique-morse-code-words](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
+| [0859-buddy-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0859-buddy-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
