@@ -228,6 +228,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -341,6 +342,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1816-truncate-sentence](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
