@@ -33,6 +33,7 @@
 | [0485-max-consecutive-ones](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0561-array-partition) |
@@ -522,6 +523,7 @@
 | [0020-valid-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -633,6 +635,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Z Algorithm
 |  |
