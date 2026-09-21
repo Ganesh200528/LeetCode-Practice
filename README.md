@@ -45,6 +45,7 @@
 | [0704-binary-search](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0804-unique-morse-code-words) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0867-transpose-matrix) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0766-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -404,6 +406,7 @@
 | [0455-assign-cookies](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0605-can-place-flowers) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/1323-maximum-69-number) |
