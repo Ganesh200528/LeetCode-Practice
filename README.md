@@ -116,6 +116,7 @@
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2574-left-and-right-sum-differences) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2706-buy-two-chocolates](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2706-buy-two-chocolates) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -246,6 +247,7 @@
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2465-number-of-distinct-averages](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/2956-find-common-elements-between-two-arrays) |
