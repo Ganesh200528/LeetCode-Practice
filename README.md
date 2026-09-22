@@ -482,6 +482,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/0070-climbing-stairs) |
