@@ -10,7 +10,10 @@ class Solution {
         int maxx = 0;
         for(int i = 0; i < nums.length -1;i++)
         {
-            maxx = Math.max(nums[i+1] - nums[i],maxx);
+            if((nums[i+1] - nums[i]) > maxx)
+            {
+                maxx = (nums[i+1] - nums[i]);
+            }
         }
         return maxx;
     }
