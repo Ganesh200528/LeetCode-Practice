@@ -142,6 +142,7 @@
 | [3285-find-indices-of-stable-mountains](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3386-button-with-longest-push-time](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3386-button-with-longest-push-time) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3467-transform-array-by-parity) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Ganesh200528/LeetCode-Practice/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
